@@ -21,9 +21,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI &lpar;XCTest&rpar;: Test @Published var isLoading: Bool](https://medium.com/@danilobecke/swiftui-xctest-test-published-var-isloading-bool-01c71369880a?source=rss-72e961362cb2------2)
 - [SwiftUI: Using TipKit to Display Custom Tutorials](https://medium.com/@danilobecke/swiftui-using-tipkit-to-display-custom-tutorials-3a54034c3021?source=rss-72e961362cb2------2)
 - [Auto Mocking with Sourcery &amp; SPM](https://medium.com/@danilobecke/auto-mocking-with-sourcery-spm-23a670072d93?source=rss-72e961362cb2------2)
 - [A luta contra a inflação: uma análise do cenário brasileiro](https://medium.com/@danilobecke/a-luta-contra-a-infla%C3%A7%C3%A3o-uma-an%C3%A1lise-do-cen%C3%A1rio-brasileiro-84369a767fb5?source=rss-72e961362cb2------2)
 - [Using Realm with Combine](https://levelup.gitconnected.com/using-realm-with-combine-288afa199b33?source=rss-72e961362cb2------2)
-- [Realm tips of an iOS developer](https://medium.com/@danilobecke/realm-tips-of-an-ios-developer-26ca1654adaf?source=rss-72e961362cb2------2)
 <!-- BLOG-POST-LIST:END -->
