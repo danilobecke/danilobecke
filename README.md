@@ -1,7 +1,5 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 
-- 👨‍💻 I'm an iOS engineer @ [Tellus](https://www.tellusapp.com)
-- 📖 I'm currently studying [Time Series Forecasting](https://otexts.com/fpp3) in Python
 - 📝 I ~~not so~~ regularly write articles on [medium.com/@danilobecke](https://medium.com/@danilobecke)
 - 📫 Reach me at [danilobecke@gmail.com](mailto:danilobecke@gmail.com) and ask me about **Swift & Apple Ecosystem**
 
